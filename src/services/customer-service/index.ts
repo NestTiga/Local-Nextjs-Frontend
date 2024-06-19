@@ -1,0 +1,1 @@
+export {fetchCustomer} from './customer'

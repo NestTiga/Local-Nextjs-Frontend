@@ -1,0 +1,1 @@
+export { ListarLocal } from './listar-local'
